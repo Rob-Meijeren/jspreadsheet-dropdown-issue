@@ -1,0 +1,8 @@
+table-input {
+  display: flex;
+  flex: 1;
+}
+
+.table-wrapper {
+  width: 100%;
+}
